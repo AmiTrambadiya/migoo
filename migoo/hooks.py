@@ -10,6 +10,14 @@ app_license = "MIT"
 # Includes in <head>
 # ------------------
 
+fixtures = [
+    "Custom Field",
+    "Server Script",
+    "Client Script",
+    "Document Naming Rule",  
+]
+
+
 # include js, css files in header of desk.html
 # app_include_css = "/assets/migoo/css/migoo.css"
 # app_include_js = "/assets/migoo/js/migoo.js"
